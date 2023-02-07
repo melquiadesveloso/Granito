@@ -1,0 +1,12 @@
+C:\Testes\Granito\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Testes\Granito\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Testes\Granito\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Testes\Granito\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Testes\Granito\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Testes\Granito\Business\bin\Debug\net6.0\Business.deps.json
+C:\Testes\Granito\Business\bin\Debug\net6.0\Business.dll
+C:\Testes\Granito\Business\bin\Debug\net6.0\Business.pdb
+C:\Testes\Granito\Business\obj\Debug\net6.0\Business.dll
+C:\Testes\Granito\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Testes\Granito\Business\obj\Debug\net6.0\Business.pdb
+C:\Testes\Granito\Business\obj\Debug\net6.0\ref\Business.dll
